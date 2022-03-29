@@ -1,0 +1,4 @@
+The transfer market program is a transfer market for football players. There's a Manager and a User. The Manager can create, 
+delete, edit a player, add a player profile, create a new Manager, log in with the right credentials and accept a request for 
+a new player. The User can create a request to add a new player, he can buy players, he can scroll through the transfer market
+and he can mark a player as favorite, 
